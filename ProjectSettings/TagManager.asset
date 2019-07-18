@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UI
+  - Knife
+  - Enemy
+  - Colliders
+  - Interractable
+  - PlayerHealth
+  - EntryWall
+  - ExitWall
+  - BossProjectile
+  - EnemySpawner
+  - SpawnPoint
+  - FireballSpawner
+  - MusicManager
+  - Cursor
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Boss
+  - Enemy
+  - Walls
+  - Hurt Entity
+  - Boss Projectile
+  - LightArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entities
+    uniqueID: 4245545571
+    locked: 0
+  - name: UI
+    uniqueID: 3459625367
+    locked: 0
